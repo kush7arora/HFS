@@ -207,20 +207,7 @@ jupyter notebook
 
 ---
 
-## 📌 Future Work
 
-* Real-time streaming (Kafka + Spark Streaming)
-* Integration with wearable health devices
-* Explainable AI for risk transparency
-* Deployment as SaaS insurance engine
-
----
-
-## 📜 Reference
-
-This work is based on the invention:
-
-**“Dynamic Health Insurance Premium Prediction Using a Combined Health and Financial Stress Score”** 
 
 ---
 
